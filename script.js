@@ -47,7 +47,7 @@ function binddata(info,meanings){
            <div id="word"> </div>
            <img class="soundlogo" src="logo.svg" alt="sound">
         </div>
-           <p class=definationhaed><strong>noun</strong></p>
+           <p class=definationhaed><strong>defination</strong></p>
            <template class="definetion">
             <p class="para"></p></template>
             
@@ -163,7 +163,7 @@ function binddata2(info,meanings){
            <div id="word1"> </div>
            <img class="soundlogo1" src="logo.svg" alt="sound">
         </div>
-           <p class=definationhaed1><strong>noun</strong></p>
+           <p class=definationhaed1><strong>defination</strong></p>
            <template class="definetion1">
             <p class="para1"></p></template>
             
